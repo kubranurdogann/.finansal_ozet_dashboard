@@ -67,7 +67,6 @@ export default function Sidebar({ isOpen, onClose }: SidebarProps) {
 </div>
         
 
-        {/* Navigation */}
         <nav className="flex-1 p-4 space-y-1 overflow-y-auto">
           {menuItems.map((item) => {
             const Icon = item.icon;
@@ -78,7 +77,7 @@ export default function Sidebar({ isOpen, onClose }: SidebarProps) {
                 key={item.id}
                 onClick={() => {
                   setActiveId(item.id);
-                  onClose(); // Mobile'da menüyü kapat
+                  onClose(); 
                 }}
                 className={`
                   w-full flex items-center gap-3 px-4 py-3 rounded-lg
