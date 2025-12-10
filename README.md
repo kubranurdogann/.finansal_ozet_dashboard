@@ -29,7 +29,7 @@ Next.js 14, TypeScript ve Tailwind CSS ile geliştirilmiştir.
 - ## 🔗 Live Demo
 
 Projeye canlı olarak buradan ulaşabilirsiniz:  
-👉 **https://https://finansal-ozet-dashboard.vercel.app/**
+👉 **https://finansal-ozet-dashboard.vercel.app/**
 
 
 ## 📦 Kurulum
