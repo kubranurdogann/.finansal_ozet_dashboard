@@ -26,6 +26,12 @@ Next.js 14, TypeScript ve Tailwind CSS ile geliştirilmiştir.
 - **Lucide Icons**
 - **Frankfurter API**
 
+- ## 🔗 Live Demo
+
+Projeye canlı olarak buradan ulaşabilirsiniz:  
+👉 **https://your-vercel-project-url.vercel.app**
+
+
 ## 📦 Kurulum
 
 ```bash
